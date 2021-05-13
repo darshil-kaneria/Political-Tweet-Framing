@@ -8,3 +8,5 @@ To briefly compare the models before and after applying the extension, here are 
 ![Baseline](images/baseline_acc.png)
 
 ![Results after self training](images/final_acc.png)
+
+Although the images do show scope of improvement, my detailed description in the paper explains further improvements on the extension which addresses problems like class imbalance. As I am limited by the scope of this experiment, further improvements are mentioned in the last section of the paper.
