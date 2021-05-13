@@ -7,4 +7,4 @@ To briefly compare the models before and after applying the extension, here are 
 
 ![Baseline](images/baseline_acc.png)
 
-![Results after self training](images/final_acc)
+![Results after self training](images/final_acc.png)
